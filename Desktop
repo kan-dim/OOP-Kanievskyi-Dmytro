@@ -1,9 +1,0 @@
-public class Desktop extends Application{
-    public Desktop(String path, String data){
-        super(path, data);
-    }
-    @Override
-    public void getType() {
-        System.out.printf("This is desktop version");
-    }
-}
