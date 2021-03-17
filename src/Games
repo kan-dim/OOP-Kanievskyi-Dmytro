@@ -9,4 +9,12 @@ public class Games extends Web{
         super.getType();
         System.out.println(": do you play games in the web version of the application?");
     }
-}
+    public void OpenGame(string path, int quantity)
+    {
+    return 100;
+    }
+    public void CloseGame(string path, int quantity)
+    {
+    return 100;
+    }
+  } 
